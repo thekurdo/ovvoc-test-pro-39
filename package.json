@@ -1,0 +1,7 @@
+{
+  "name": "ovvoc-test-pro-39",
+  "version": "1.0.0",
+  "description": "Next.js 13 app with pages and API routes",
+  "scripts": { "test": "node test/config.test.js" },
+  "dependencies": { "next": "13.5.7", "react": "18.2.0", "react-dom": "18.2.0" }
+}
